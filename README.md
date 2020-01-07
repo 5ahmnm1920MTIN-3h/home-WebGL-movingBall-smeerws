@@ -22,7 +22,7 @@ WebGL incl. reference resolution 960x600
 
 ### Visuals: 
 <div>
-<img src = "./Screenshots/sketch-moving-ball" width = "500">
+<img src = "./Screenshots/sketch-moving-ball.jpg" width = "500">
 </div>
 
 <a href="https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-smeerws/">Reference WebGL Build from moving ball</a>
